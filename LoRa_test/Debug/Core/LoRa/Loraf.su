@@ -1,0 +1,4 @@
+../Core/LoRa/Loraf.c:4:7:concatenateStrings	32	static
+../Core/LoRa/Loraf.c:19:6:transmit_test	24	static
+../Core/LoRa/Loraf.c:26:6:receive_test	24	static
+../Core/LoRa/Loraf.c:33:6:LoRa_start	16	static
