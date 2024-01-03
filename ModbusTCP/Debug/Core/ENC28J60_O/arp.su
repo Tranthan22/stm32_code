@@ -1,0 +1,7 @@
+../Core/ENC28J60_O/arp.c:16:8:ARP_table_checkIP	24	static
+../Core/ENC28J60_O/arp.c:26:6:ARP_table_get_MAC	24	static
+../Core/ENC28J60_O/arp.c:31:6:ARP_table_setIP	72	static
+../Core/ENC28J60_O/arp.c:44:6:ARP_clear_table	16	static
+../Core/ENC28J60_O/arp.c:58:6:ARP_send_request	80	static
+../Core/ENC28J60_O/arp.c:77:6:ARP_read_packet	80	static
+../Core/ENC28J60_O/arp.c:118:6:ARP_report	56	static

@@ -1,0 +1,3 @@
+../Core/ENC28J60_O/icmp.c:8:10:ICMP_checksum	4
+../Core/ENC28J60_O/icmp.c:31:6:ICMP_ping_reply	1
+../Core/ENC28J60_O/icmp.c:52:6:ICMP_read	3

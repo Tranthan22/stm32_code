@@ -1,0 +1,17 @@
+../Core/ENC28J60_O/enc28j60.c:12:6:SPI_SendByte	1
+../Core/ENC28J60_O/enc28j60.c:17:9:SPI_ReceiveByte	1
+../Core/ENC28J60_O/enc28j60.c:25:6:ENC28J60_write_command	1
+../Core/ENC28J60_O/enc28j60.c:32:9:ENC28J60_read_command	2
+../Core/ENC28J60_O/enc28j60.c:43:6:ENC28J60_SetBank	2
+../Core/ENC28J60_O/enc28j60.c:52:6:ENC28J60_writeByte	1
+../Core/ENC28J60_O/enc28j60.c:58:9:ENC28J60_readByte	1
+../Core/ENC28J60_O/enc28j60.c:63:6:ENC28J60_writeByte16	1
+../Core/ENC28J60_O/enc28j60.c:68:6:ENC28J60_writePhy	2
+../Core/ENC28J60_O/enc28j60.c:74:10:ENC28J60_readPhy	2
+../Core/ENC28J60_O/enc28j60.c:85:6:ENC29J600_ini	3
+../Core/ENC28J60_O/enc28j60.c:150:6:ENC28J60_error	1
+../Core/ENC28J60_O/enc28j60.c:156:9:ENC28J60_read_Byte_Buffer	1
+../Core/ENC28J60_O/enc28j60.c:160:6:ENC28J60_ReadBuffer	2
+../Core/ENC28J60_O/enc28j60.c:174:10:ENC28J60_read_packet	5
+../Core/ENC28J60_O/enc28j60.c:214:6:ENC28J60_writeBuf	2
+../Core/ENC28J60_O/enc28j60.c:222:6:ENC28J60_send_packet	2

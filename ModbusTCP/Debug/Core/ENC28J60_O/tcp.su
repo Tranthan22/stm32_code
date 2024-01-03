@@ -1,0 +1,7 @@
+../Core/ENC28J60_O/tcp.c:9:10:TCP_checksum	32	static
+../Core/ENC28J60_O/tcp.c:31:6:TCP_make_herder	24	static
+../Core/ENC28J60_O/tcp.c:167:6:TCP_read	40	static
+../Core/ENC28J60_O/tcp.c:266:6:TCP_send	32	static
+../Core/ENC28J60_O/tcp.c:281:9:TCP_sendSYN	56	static
+../Core/ENC28J60_O/tcp.c:322:9:TCP_Connect	32	static
+../Core/ENC28J60_O/tcp.c:356:9:TCP_Disconect	24	static

@@ -1,0 +1,3 @@
+../Core/ENC28J60_O/dhcp.c:14:9:DHCP_get_ip	24	static
+../Core/ENC28J60_O/dhcp.c:26:6:dhcp_discover	296	static
+../Core/ENC28J60_O/dhcp.c:72:6:dhcp_getGateway	56	static

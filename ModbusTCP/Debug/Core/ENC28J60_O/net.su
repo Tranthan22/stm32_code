@@ -1,0 +1,7 @@
+../Core/ENC28J60_O/net.c:10:9:net_readEnable	4	static
+../Core/ENC28J60_O/net.c:14:6:net_readSetStatus	16	static
+../Core/ENC28J60_O/net.c:19:6:NET_SendFrame	16	static
+../Core/ENC28J60_O/net.c:25:10:NET_ipchecksum	24	static
+../Core/ENC28J60_O/net.c:41:6:NET_ipRead	16	static
+../Core/ENC28J60_O/net.c:57:6:NET_read	16	static
+../Core/ENC28J60_O/net.c:82:6:NET_loop	16	static

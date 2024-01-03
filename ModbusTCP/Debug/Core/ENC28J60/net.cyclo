@@ -1,0 +1,7 @@
+../Core/ENC28J60/net.c:9:9:net_readEnable	1
+../Core/ENC28J60/net.c:12:6:net_readSetStatus	2
+../Core/ENC28J60/net.c:16:6:NET_SendFrame	1
+../Core/ENC28J60/net.c:19:10:NET_ipchecksum	3
+../Core/ENC28J60/net.c:33:6:NET_ipRead	3
+../Core/ENC28J60/net.c:44:6:NET_read	6
+../Core/ENC28J60/net.c:54:6:NET_loop	2
